@@ -1,0 +1,15 @@
+GAME START
+> The dealer deck has 13*4 = 52 playing cards.
+> Each of the two to four players is given 9 cards (drawn from the dealer deck).
+> Another card is drawn from the dealer deck, and is set on the field.
+
+GAME
+> Each player must throw out a card that matches either the suit or the value of the current card on the field.
+> A player can throw out a card with the value 9 even if it does not match the currect card.
+  If he does this, he must also set the suit of the card that the next player will throw out.
+> If a player cannot throw any card, then he must keep drawing cards from the dealer deck until he can do so.
+> A player can also draw a card from the dealer deck even if he already has something to throw out.
+
+GAME END and SCORING
+> If at the end of a player's turn, the dealer deck is empty, then the game is over.
+> The player/s that has the least number of cards remaining in his possession is declared the winner.
